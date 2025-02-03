@@ -1,0 +1,42 @@
+
+[186/6918] Tested - https://ventasbalss.lv/news [2.69%]
+
+[32m[1mSUCCESS![0m Admin panel found!
+[33m----------------------------------------
+URL: [36mhttps://ventasbalss.lv/news[0m
+[33m----------------------------------------
+
+[187/6918] Tested - https://ventasbalss.lv/pages [2.70%]
+
+[32m[1mSUCCESS![0m Admin panel found!
+[33m----------------------------------------
+URL: [36mhttps://ventasbalss.lv/pages[0m
+[33m----------------------------------------
+
+[447/6918] Tested - https://ventasbalss.lv/admin// [6.46%]
+
+[32m[1mSUCCESS![0m Admin panel found!
+[33m----------------------------------------
+URL: [36mhttps://ventasbalss.lv/admin//[0m
+[33m----------------------------------------
+
+[601/6918] Tested - https://ventasbalss.lv/admin/home [8.69%]
+
+[32m[1mSUCCESS![0m Admin panel found!
+[33m----------------------------------------
+URL: [36mhttps://ventasbalss.lv/admin/home[0m
+[33m----------------------------------------
+
+[654/6918] Tested - https://ventasbalss.lv/admin/login [9.45%]
+
+[32m[1mSUCCESS![0m Admin panel found!
+[33m----------------------------------------
+URL: [36mhttps://ventasbalss.lv/admin/login[0m
+[33m----------------------------------------
+
+[2581/6918] Tested - https://ventasbalss.lv/polls [37.31%]
+
+[32m[1mSUCCESS![0m Admin panel found!
+[33m----------------------------------------
+URL: [36mhttps://ventasbalss.lv/polls[0m
+[33m----------------------------------------

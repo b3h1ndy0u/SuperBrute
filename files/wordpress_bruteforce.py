@@ -11,24 +11,16 @@ import gevent
 from gevent.pool import Pool
 from gevent import monkey
 
-
-monkey.patch_all()
-
-
+monkey.patch_all(ssl=False)
 init(autoreset=True)
-
-
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-
 
 script_dir = os.path.dirname(os.path.realpath(__file__))
 results_dir = os.path.join(script_dir, 'Results')
 logs_dir = os.path.join(script_dir, 'Logs')
 
-
 os.makedirs(results_dir, exist_ok=True)
 os.makedirs(logs_dir, exist_ok=True)
-
 
 logging.basicConfig(filename=os.path.join(logs_dir, 'wp_brute.log'), 
                     level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -245,7 +237,7 @@ def main():
 
     passwords = load_passwords(pwd_file)
     print(Style.RESET_ALL + Fore.WHITE + "\n" + "="*80 + "\n")
-    run_bruteforce(site, username, passwords, wp_submit_value, wp_redirect_to, threads)
+    run_bruteforce(site, username, passwords, wp_submit_value, wp_redirect_to, 1)
 
 if __name__ == '__main__':
     try:

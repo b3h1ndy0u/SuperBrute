@@ -86,7 +86,7 @@ class WebshellFinder:
             sys.exit(1)
         status(f"Target URL set to: {target_url}")
 
-        wordlist_file = input(Fore.WHITE + "[+] Enter the webshell wordlist file (default: webshell_wordlists.txt, press Enter for default): ").strip() or os.path.join(wordlists_dir, "webshell_wordlists.txt")
+        wordlist_file = input(Fore.WHITE + "[+] Enter the webshell wordlist file (default: webshells.txt, press Enter for default): ").strip() or os.path.join(wordlists_dir, "webshells.txt")
         status(f"Loading webshell patterns from {wordlist_file}...")
         webshell_patterns = load_wordlist(wordlist_file)
         success(f"Loaded {len(webshell_patterns)} webshell patterns.")

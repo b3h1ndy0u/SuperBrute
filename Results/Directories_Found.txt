@@ -1,0 +1,112 @@
+
+[6/4614] Tested - https://ventasbalss.lv/.htaccess [0.13%]
+
+[32m[1mSUCCESS![0m Directory found!
+[33m----------------------------------------
+URL: [36mhttps://ventasbalss.lv/.htaccess[0m
+[33m----------------------------------------
+
+[756/4614] Tested - https://ventasbalss.lv/events [16.38%]
+
+[32m[1mSUCCESS![0m Directory found!
+[33m----------------------------------------
+URL: [36mhttps://ventasbalss.lv/events[0m
+[33m----------------------------------------
+
+[788/4614] Tested - https://ventasbalss.lv/favicon.ico [17.08%]
+
+[32m[1mSUCCESS![0m Directory found!
+[33m----------------------------------------
+URL: [36mhttps://ventasbalss.lv/favicon.ico[0m
+[33m----------------------------------------
+
+[803/4614] Tested - https://ventasbalss.lv/files [17.40%]
+
+[32m[1mSUCCESS![0m Directory found!
+[33m----------------------------------------
+URL: [36mhttps://ventasbalss.lv/files[0m
+[33m----------------------------------------
+
+[824/4614] Tested - https://ventasbalss.lv/font [17.86%]
+
+[32m[1mSUCCESS![0m Directory found!
+[33m----------------------------------------
+URL: [36mhttps://ventasbalss.lv/font[0m
+[33m----------------------------------------
+
+[842/4614] Tested - https://ventasbalss.lv/forums [18.25%]
+
+[32m[1mSUCCESS![0m Directory found!
+[33m----------------------------------------
+URL: [36mhttps://ventasbalss.lv/forums[0m
+[33m----------------------------------------
+
+[843/4614] Tested - https://ventasbalss.lv/foto [18.27%]
+
+[32m[1mSUCCESS![0m Directory found!
+[33m----------------------------------------
+URL: [36mhttps://ventasbalss.lv/foto[0m
+[33m----------------------------------------
+
+[996/4614] Tested - https://ventasbalss.lv/images [21.59%]
+
+[32m[1mSUCCESS![0m Directory found!
+[33m----------------------------------------
+URL: [36mhttps://ventasbalss.lv/images[0m
+[33m----------------------------------------
+
+[1011/4614] Tested - https://ventasbalss.lv/index.php [21.91%]
+
+[32m[1mSUCCESS![0m Directory found!
+[33m----------------------------------------
+URL: [36mhttps://ventasbalss.lv/index.php[0m
+[33m----------------------------------------
+
+[1090/4614] Tested - https://ventasbalss.lv/js [23.62%]
+
+[32m[1mSUCCESS![0m Directory found!
+[33m----------------------------------------
+URL: [36mhttps://ventasbalss.lv/js[0m
+[33m----------------------------------------
+
+[1334/4614] Tested - https://ventasbalss.lv/news [28.91%]
+
+[32m[1mSUCCESS![0m Directory found!
+[33m----------------------------------------
+URL: [36mhttps://ventasbalss.lv/news[0m
+[33m----------------------------------------
+
+[1924/4614] Tested - https://ventasbalss.lv/stats [41.70%]
+
+[32m[1mSUCCESS![0m Directory found!
+[33m----------------------------------------
+URL: [36mhttps://ventasbalss.lv/stats[0m
+[33m----------------------------------------
+
+[2104/4614] Tested - https://ventasbalss.lv/upload [45.60%]
+
+[32m[1mSUCCESS![0m Directory found!
+[33m----------------------------------------
+URL: [36mhttps://ventasbalss.lv/upload[0m
+[33m----------------------------------------
+
+[2149/4614] Tested - https://ventasbalss.lv/video [46.58%]
+
+[32m[1mSUCCESS![0m Directory found!
+[33m----------------------------------------
+URL: [36mhttps://ventasbalss.lv/video[0m
+[33m----------------------------------------
+
+[2150/4614] Tested - https://ventasbalss.lv/videos [46.60%]
+
+[32m[1mSUCCESS![0m Directory found!
+[33m----------------------------------------
+URL: [36mhttps://ventasbalss.lv/videos[0m
+[33m----------------------------------------
+
+[2182/4614] Tested - https://ventasbalss.lv/weather [47.29%]
+
+[32m[1mSUCCESS![0m Directory found!
+[33m----------------------------------------
+URL: [36mhttps://ventasbalss.lv/weather[0m
+[33m----------------------------------------
